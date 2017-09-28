@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{28691898-0D7B-A9DA-189C-49ACF4DC19D7}|">
+  <MonoDevelop.Ide.ItemProperties.PlayWaySholl PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/testprint.cs">
+    <Files>
+      <File FileName="Assets/NewBehaviourScript.cs" Line="14" Column="39" />
+      <File FileName="Assets/testprint.cs" Line="50" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
